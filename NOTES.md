@@ -6,6 +6,8 @@
 
 ## Configure Raspberry PI for HAT
 
+ A Raspberry Pi 5 was used for this project.
+
 ```sh
 sudo raspi-config
 Choose Interfacing Options -> SPI -> Yes Enable SPI interface
